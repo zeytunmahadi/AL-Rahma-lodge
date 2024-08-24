@@ -1,0 +1,31 @@
+{
+    "rooms": [
+      {
+        "image": "https://sawelalodges.com/images/superior-room.jpg",
+        "name": "SUPERIOR ROOMS",
+        "description": "Our luxurious superior rooms are cozy, well-furnished, and ideal for avid travelers. Located near the reception area..."
+      },
+      {
+        "image": "https://sawelalodges.com/images/business-suite.jpg",
+        "name": "BUSINESS SUITE ROOMS",
+        "description": "Our unique business suite room category allows you to combine business travel and a family vacation. A sliding door separates..."
+      },
+      {
+        "image": "https://sawelalodges.com/images/executive-rooms.jpg",
+        "name": "EXECUTIVE SUITE ROOMS",
+        "description": "Located near the main block, the luxurious two-bedroom suites feature a state-of-the-art lounge, a fully equipped kitchenette..."
+      },
+      {
+        "image": "https://sawelalodges.com/images/honeymoon-suite.jpg",
+        "name": "HONEYMOON SUITE ROOM",
+        "description": "Designed for the ultimate 5-star honeymoon experience, the honeymoon suite is situated in our last block. Here, honeymooners enjoy..."
+      },
+      {
+        "image": "https://sawelalodges.com/images/business-deluxe-room.jpg",
+        "name": "DELUXE ROOMS",
+        "description": "Deluxe rooms with beautiful views and modern amenities..."
+      }
+    
+    ]
+  }
+  
